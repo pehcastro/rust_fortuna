@@ -1,0 +1,13 @@
+D:\localhost\github\rust_fortuna\target\debug\deps\sha2-9eea5f6e067cb2d7.rmeta: C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\lib.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\core_api.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\consts.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256\soft.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256\x86.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512\soft.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512\x86.rs
+
+D:\localhost\github\rust_fortuna\target\debug\deps\sha2-9eea5f6e067cb2d7.d: C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\lib.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\core_api.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\consts.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256\soft.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256\x86.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512\soft.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512\x86.rs
+
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\lib.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\core_api.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\consts.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256\soft.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha256\x86.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512\soft.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.7\src\sha512\x86.rs:

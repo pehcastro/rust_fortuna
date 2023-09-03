@@ -1,0 +1,10 @@
+D:\localhost\github\rust_fortuna\target\debug\deps\clear_on_drop-158827ae25bdba0a.rmeta: C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\lib.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear_on_drop.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear_stack_on_return.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\fnoption.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\hide.rs
+
+D:\localhost\github\rust_fortuna\target\debug\deps\clear_on_drop-158827ae25bdba0a.d: C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\lib.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear_on_drop.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear_stack_on_return.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\fnoption.rs C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\hide.rs
+
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\lib.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear_on_drop.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\clear_stack_on_return.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\fnoption.rs:
+C:\Users\pehca\.cargo\registry\src\index.crates.io-6f17d22bba15001f\clear_on_drop-0.2.5\src\hide.rs:

@@ -1,0 +1,19 @@
+[package]
+name = "rust_fortuna"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+blocking = "1.3.1"
+cardano-multiplatform-lib = "3.1.3"
+rand = "0.8.5"
+regex = "1.9.4"
+reqwest = { version = "0.11.20", features = ["blocking", "json"] }
+rustacuda = "0.1.3"
+rustacuda_core = "0.1"
+rustacuda_derive = "0.1"
+serde = "1.0.188"
+serde_json = "1.0.105"
+sha2 = "0.10.7"
