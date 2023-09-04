@@ -11,7 +11,7 @@ fn main() {
 
     let mut json = String::from(r#"{"fields":[{"bytes":"2c58571ed350979233da4dea0846ff50"},{"int":7745},{"bytes":"0000003ae1a0f5771417fe0ca2865f93a0ff6d2534037570fc5e258ca9213845"},{"int":66},{"int":555},{"int":61545000}],"constructor":0}"#);
     let mut solved = false;
-    const NUM_THREADS: usize = 16;
+    const NUM_THREADS: usize = 24;
     
     let (tx, rx) = mpsc::channel();
     let should_terminate = Arc::new(AtomicBool::new(false));
